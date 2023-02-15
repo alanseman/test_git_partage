@@ -4,5 +4,3 @@ c=999
 print(a*b)
 print(a+b+c)
 
-
-
