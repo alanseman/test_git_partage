@@ -1,16 +1,10 @@
 print("Salut tout le monde")
+<<<<<<< HEAD
 
-print("hello too")
-
-azerty = 123
-qwerty = 456
-
-sum=azerty-qwerty
-
-print("jvais tout caser")
 
 print("Alors, comment ça va ?")
 
 print("hello too")
-
+=======
 print("jvais tout caser")
+>>>>>>> 04524a22e013ee0e32708e5ffcbd21aa6361e881
