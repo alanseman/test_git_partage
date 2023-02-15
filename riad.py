@@ -1,5 +1,6 @@
 print("Bonjour tout le monde")
 print("salut !")
 
-pint("why not")
+print("why not")
+print("hhhh")
 
